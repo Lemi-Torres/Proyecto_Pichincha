@@ -71,7 +71,8 @@ Después de esto lanzamos un screener survey en diversas redes sociales con el f
 En esta etapa tuvimos la oportunidad de realizar dos tipos de entrevistas, a usuarios potenciales y a una colaboradora del banco.
 
 1. Entrevista a clientes potenciales:
-- Pregunta de investigación: ¿Qué factores influyen en la apertura y utilización de una cuenta de ahorros en contexto de emergencia para personas de la generación X?
+- Pregunta de investigación:
+  - ¿Qué factores influyen en la apertura y utilización de una cuenta de ahorros en contexto de emergencia para personas de la generación X?
 - Objetivos específicos de la entrevista:
   - Cultura de ahorro.
 Situación financiera pre Covid y actual.
