@@ -10,7 +10,7 @@ Julio 2020 - Agosto 2020
 ### Entregable:
 Chatbot vía WhatsApp e implementación de autenticación facial en la app original del Banco - versión mobile.
 
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/portada.jpg)
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/portada.jpg)
 
 ## Índice
 
