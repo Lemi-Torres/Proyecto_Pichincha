@@ -19,9 +19,17 @@ Chatbot vía WhatsApp e implementación de autenticación facial en la app origi
 * [3. Reto](#3-reto)
 * [4. Objetivos](#4-objetivos)
 * [5. Business Model Canvas](#5-business-model-canvas)
-* [6. Solución Digital](#6-solución-digital)
-* [7. Resultados](#7-resultados)
-* [8. Mi aprendizaje](#8-mi-aprendizaje)
+* [6. Benchmarck](#6-solución-digital)
+* [7. Protopersona](#7-resultados)
+* [8. Entrevistas](#8-mi-aprendizaje)
+* [9. Bajada de información / Affinity Diagram](#8-mi-aprendizaje)
+* [10. User Persona](#1-contexto)
+* [11. Journey Map](#2-problema)
+* [12. How Might We](#3-reto)
+* [13. Brainstorming](#4-objetivos)
+* [14. Solución Digital](#5-business-model-canvas)
+* [15. Resultados](#6-solución-digital)
+* [16. Mi aprendizaje](#7-resultados)
 
 ## 1. Contexto
 Banco Pichincha es parte del Grupo Pichincha, el mayor grupo financiero privado de Ecuador. Llegó a nuestro país hace más de 20 años y en su búsqueda permanente por propiciar un impacto positivo y justo en la sociedad, ha convertido a la sostenibilidad y a la responsabilidad social corporativa en pilares fundamentales de su modelo de negocio. 
@@ -121,8 +129,8 @@ Contexto (Búsqueda de información): Ante la pandemia Covid 19, Flor ha decidid
 
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/mockups.jpg)
 
-## 11. HMW
-Según nuestros hallazgos, nos dimos cuenta que debíamos tomar en consideración dos momentos en especial: el antes y el durante del proceso de apertura así que para poder entender mejor los problemas y desarrollar mejores hipótesis realizamos How Might We (Cómo podríamos), redefiniendo el reto inicial de la siguiente manera:
+## 12. How Might We
+Según nuestros hallazgos, nos dimos cuenta que debíamos tomar en consideración dos momentos en especial: el antes y el durante del proceso de apertura así que para poder entender mejor los problemas y desarrollar mejores hipótesis realizamos HMW (Cómo podríamos), redefiniendo el reto inicial de la siguiente manera:
 - ¿Cómo podríamos brindar información detallada y de fácil entendimiento para que potenciales usuarios de la generación X puedan decidir qué tipo de cuenta de ahorros les conviene?
 - ¿Cómo podríamos brindar un mayor acompañamiento y transmitir seguridad en la realización de la apertura de una cuenta de ahorros para que potenciales usuarios de la generación X tengan confianza en realizarla desde su hogar?
 - ¿Cómo podríamos realizar la validación y activación de la cuenta de ahorros para que potenciales usuarios de la generación X culminen su proceso sin la necesidad de acercarse al banco para realizar dichos procedimientos?
@@ -130,14 +138,14 @@ Según nuestros hallazgos, nos dimos cuenta que debíamos tomar en consideració
 ##
 **FASE DE IDEACIÓN**
 
-## 12. Brainstorming
+## 13. Brainstorming
 
 Empezamos nuestro proceso de crear soluciones para resolver los problemas que encontramos y planteamos en el HMW. Realizamos de modo grupal una lluvia de ideas y empezamos a generar nuevas y diversas ideas, después de esto analizamos las ideas y elegimos las más adecuadas o interesantes para solucionar el problema planteado y con esto realizamos un User flow para su posterior prototipado.
 
 ##
 **FASE DE PROTOTIPADO Y VALIDACIÓN**
 
-## 13. Solución Digital
+## 14. Solución Digital
 - **Chatbot vía WhatsApp**, para nuestros usuarios este era el medio de comunicación más utilizado y a traves de el podíamos ofrecer información clara y detallada y también ayudarlos en su proceso de apertura por la página web sin la presencia de un asesor acortando el tiempo que normalmente ellos tomaban para asesorar a los usuarios interesados.
 - **Implementación de autenticación facial en la app**, realizar esto ayudaba a que nuestros usuarios puedan validar su identidad de una manera segura y evitar acercarse al banco para culminar su proceso y para poder anunciarlo tuvimos que rediseñar la sección de Confirmación del proceso de solicitud de la apertura de una cuenta de ahorros en la página web.
 
@@ -146,10 +154,10 @@ Desarrollamos los prototipos de baja fidelidad de todo el flujo e hicimos tests 
 :arrow_right:  **Links:** [Prototipo Figma](https://www.figma.com/file/Sv4aDwLlZH3TsWXuCbXRvL/WebSite-Grupo-%C3%81mate?node-id=911%3A6843)
 | [Prototipo navegable](https://n9.cl/guqeg)
 
-## 14. Resultados
+## 15. Resultados
 Mi equipo y yo logramos crear una solución digital que permitía a los potenciales usuarios a poder recibir una información clara y detallada sobre los tipos de cuentas de ahorros que el banco ofrecía permitiendole de una manera dinámica poder entenderla y decidirse por la que mas le conviene, ellos lograron sentirse acompañados durante su proceso de solicitud de apertura de cuenta de ahorros en la web ya que su mayor temor era no saber o no entender ciertos términos que los pudiesen llevar al error, a su vez la implementación del sistema FacePhi fue una gran opción que los ayudaba a poder realizar diversas operaciones con su cuenta activada desde la app y evitar acercarse a los bancos a realizar largas colas que los exponian al contagio.
 
-## 15. Mi aprendizaje
+## 16. Mi aprendizaje
 En este proyecto aprendí que tener sesiones de brainstorming es fundamental, aunque parezca ser algo sencillo tienen muchos factores que la forman e influyen en los resultados y por eso debemos prestar atención a cada detalle o de lo contrario los resultados que obtengamos no serán los que esperamos🙄. También aprendí que al realizar entrevistas debo enfocarme en hacer preguntas al entrevistado en las que me pueda contar como es su experiencia al usar X producto o servicio ya sea mala o buena y nunca pedirles que me digan que es lo quieren por que ya sabemos que: “Si le hubiera preguntado a la gente qué quería, habrían dicho un caballo más rápido”_Henry Ford 👩🏽‍💻.
 
 ##
