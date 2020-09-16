@@ -73,7 +73,7 @@ En esta etapa tuvimos la oportunidad de realizar dos tipos de entrevistas, a usu
 1. Entrevista a clientes potenciales:
 - Pregunta de investigación: ¿Qué factores influyen en la apertura y utilización de una cuenta de ahorros en contexto de emergencia para personas de la generación X?
 - Objetivos específicos de la entrevista:
- - Cultura de ahorro.
+  - Cultura de ahorro.
 Situación financiera pre Covid y actual.
 Conocer experiencias de los usuarios donde se sintieron vulnerables en plataformas digitales y/o física.
 Entender que tanto conocen los usuarios del proceso y los beneficios de aperturar una cuenta de ahorros en el banco.
