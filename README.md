@@ -25,7 +25,7 @@ Chatbot vía WhatsApp e implementación de autenticación facial en la app origi
 * [9. Affinity Diagram](#9-affinity-diagram)
 * [10. User Persona](#10-user-persona)
 * [11. Journey Map](#11-journey-map)
-* [12. How Might We](12-how-might-we)
+* [12. How Might We](#12-how-might-we)
 * [13. Brainstorming](#13-brainstorming)
 * [14. Solución Digital](#14-solución-digital)
 * [15. Resultados](#15-resultados)
