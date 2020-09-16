@@ -58,18 +58,27 @@ Así que primero hicimos una selección de cinco productos. Esto evitaba que nue
 La clienta nos hizo llegar cierta información que junto a nuestra breve investigación nos sirvió como punto de partida para la realización de un protopersona (personaje semi-ficticio) el cual nos ayudaría a comprender mejor el perfil de nuestros usuarios.
 
 Características generales del target:
-- Trabajador independiente
--Generación X
--Acceso a internet
--Percibe ingresos
--Experiencia en la adquisición de algún producto financiero
--Después de esto lanzamos un screener survey en diversas redes sociales con el fin de captar usuarias y usuarios que cumpliesen con el perfil requerido.para llevarlos a   entrevistas.
+- Trabajador(a) independiente
+- Generación X
+- Acceso a internet
+- Percibe ingresos
+- Experiencia en la adquisición de algún producto financiero
 
-**WIREFRAMES**
-###### Esqueleto del Diseño
+Después de esto lanzamos un screener survey en diversas redes sociales con el fin de captar usuarias y usuarios que cumpliesen con el perfil requerido.para llevarlos a   entrevistas.
 
-Junto a mi dupla de trabajo comenzamos creamos wireframes de baja fidelidad (se utilizan escalas de grises con el propósito de que no haya un excesivo diseño visual o gráfico que pueda distraernos de lo realmente importante).
-La herramienta que utilizamos fue Balsamic y adicional a ahorrarnos tiempo, estos bocetos nos ayudaron para ir descartando o aprobando ideas junto a los miembros de mi equipo.
+## 6. Entrevistas
+
+En esta etapa tuvimos la oportunidad de realizar dos tipos de entrevistas, a usuarios potenciales y a una colaboradora del banco.
+
+1. Entrevista a clientes potenciales:
+- Pregunta de investigación: ¿Qué factores influyen en la apertura y utilización de una cuenta de ahorros en contexto de emergencia para personas de la generación X?
+- Objetivos específicos de la entrevista:
+ - Cultura de ahorro.
+Situación financiera pre Covid y actual.
+Conocer experiencias de los usuarios donde se sintieron vulnerables en plataformas digitales y/o física.
+Entender que tanto conocen los usuarios del proceso y los beneficios de aperturar una cuenta de ahorros en el banco.
+Conocer sus experiencias digitales.
+Después de ello analizamos las respuestas obtenidas del screener survey encontrando coincidencias en 5 usuarios que aceptaron pasar a entrevistas
 
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/wireframes.png)
 
