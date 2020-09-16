@@ -40,8 +40,8 @@ El objetivo del banco era generar la mejor experiencia del cliente en el context
 Nuestro foco principal fue buscar una solución digital que ayudase a las y los clientes a poder aperturar su cuenta de ahorros sin que se encuentren en las oficinas del banco. 
 
 ##
-Basamos nuestro proyecto en el proceso de Design Thinking, implementar esto nos permitiría desarrollar un producto innovador desde una perspectiva más humana en muy poco tiempo.
-Pasamos por todas las etapas y estos fueron los resultados:
+**Basamos nuestro proyecto en el proceso de Design Thinking ya que implementar esto nos permite desarrollar un producto innovador desde una perspectiva más humana en muy poco tiempo**
+
 
 ## 4. User Persona
 Magaly es licenciada en Psicología. Actualmente tiene un empleo en una institución donde brinda apoyo psicológico a niños con TDAH y continúa capacitándose de modo online para reforzar conocimientos en su área profesional y seguir brindando una atención de calidad a sus pacientes.
