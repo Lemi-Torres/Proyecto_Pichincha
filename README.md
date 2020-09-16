@@ -19,17 +19,17 @@ Chatbot vía WhatsApp e implementación de autenticación facial en la app origi
 * [3. Reto](#3-reto)
 * [4. Objetivos](#4-objetivos)
 * [5. Business Model Canvas](#5-business-model-canvas)
-* [6. Benchmarck](#6-solución-digital)
-* [7. Protopersona](#7-resultados)
-* [8. Entrevistas](#8-mi-aprendizaje)
-* [9. Bajada de información / Affinity Diagram](#8-mi-aprendizaje)
-* [10. User Persona](#1-contexto)
-* [11. Journey Map](#2-problema)
-* [12. How Might We](#3-reto)
-* [13. Brainstorming](#4-objetivos)
-* [14. Solución Digital](#5-business-model-canvas)
-* [15. Resultados](#6-solución-digital)
-* [16. Mi aprendizaje](#7-resultados)
+* [6. Benchmarck](#6-benchmarck)
+* [7. Protopersona](#7-protopersona)
+* [8. Entrevistas](#8-entrevistas)
+* [9. Affinity Diagram](#8-affinity-diagram)
+* [10. User Persona](#1-user-persona)
+* [11. Journey Map](#2-journey-map)
+* [12. How Might We](#3-how-might-we)
+* [13. Brainstorming](#4-brainstorming)
+* [14. Solución Digital](#5-solución-digital)
+* [15. Resultados](#6-resultados)
+* [16. Mi aprendizaje](#7-mi-aprendizaje)
 
 ## 1. Contexto
 Banco Pichincha es parte del Grupo Pichincha, el mayor grupo financiero privado de Ecuador. Llegó a nuestro país hace más de 20 años y en su búsqueda permanente por propiciar un impacto positivo y justo en la sociedad, ha convertido a la sostenibilidad y a la responsabilidad social corporativa en pilares fundamentales de su modelo de negocio. 
@@ -101,7 +101,7 @@ Analizamos las respuestas obtenidas del screener survey encontrando coincidencia
 ##
 **FASE DE DEFINICIÓN**
 
-## 9. Bajada de información / Affinity Diagram
+## 9. Affinity Diagram
 Después de realizar las entrevistas lo primero que hicimos fue hacer una bajada de información, en una matriz de resultados apuntamos notas y las reforzamos con las grabaciones que realizamos y luego sacamos lo que considerábamos realmente relevante y los apuntamos en post its en Miro y posteriormente realizamos un Affinity Diagram (agrupamos por afinidad los datos similares) aquí solo quedaron los datos más importantes y desechamos los que no hacían falta.
 Después de esto ya estábamos listas para buscar patrones y generar insigths.
 
