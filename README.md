@@ -100,7 +100,8 @@ Después de realizar las entrevistas lo primero que hicimos fue hacer una bajada
 Después de esto ya estábamos listas para buscar patrones y generar insigths.
 
 - Principales Hallazgos- entrevista con usuarios:
-  - Son personas que tienen un deseo por integrarse al sector digital, pero que aún no se acostumbran *"Me gustaría aprender y poder hacerlo yo directamente”._U1*
+  - Son personas que tienen un deseo por integrarse al sector digital, pero que aún no se acostumbran ***"Me gustaría aprender y poder hacerlo yo directamente”.***_U1
+  
 El contexto de emergencia los ha llevado a evitar sitios concurridos y aglomerados "Yo no iría (bancos), por la aglomeración de gente, me daría miedo contagiarme" "Ahora con la pandemia si me siento inseguro por las colas que tengo que hacer"_U2
 La elección de un banco se basa en dos aspectos:
 Si sus conocidos y entorno cercano son clientes de alguna entidad financiera "Escogería el BCP. No conozco los beneficios que me podría dar pero toda mi familia tiene su cuenta de ahorro allí"_U5
