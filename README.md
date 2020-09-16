@@ -147,14 +147,12 @@ Desarrollamos los prototipos de baja fidelidad de todo el flujo e hicimos tests 
 | [Prototipo navegable](https://n9.cl/guqeg)
 
 ## 14. Resultados
-Mi equipo y yo logramos crear una propuesta digital atractiva que captó la atención de las y los potenciales usuarios motivándolos a navegar en la web de Ámate en búsqueda de información, a su vez la implementación de la ficha de inscripción en la web ayudó a reducir el tiempo que se tomaban anteriormente cuando recibían la ficha vía email, esta agilización los animaba aún más a su inscripción en alguna capacitación de su interés.
-Adicional cumplimos con las actividades planeadas por sprint en el tiempo establecido, siendo nuestro proyecto aprobado por la clienta.
+Mi equipo y yo logramos crear una solución digital que permitía a los potenciales usuarios a poder recibir una información clara y detallada sobre los tipos de cuentas de ahorros que el banco ofrecía permitiendole de una manera dinámica poder entenderla y decidirse por la que mas le conviene, ellos lograron sentirse acompañados durante su proceso de solicitud de apertura de cuenta de ahorros en la web ya que su mayor temor era no saber o no entender ciertos términos que los pudiesen llevar al error, a su vez la implementación del sistema FacePhi fue una gran opción que los ayudaba a poder realizar diversas operaciones con su cuenta activada desde la app y evitar acercarse a los bancos a realizar largas colas que los exponian al contagio.
 
 ## 15. Mi aprendizaje
 En este proyecto aprendí que es casi imposible saber si el diseño estará terminado en algún momento 🙄 siempre habrá cosas por corregir, rehacer, revisar, reajustar ...
 Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable que será necesario continuar refinándolo cada cierto tiempo 👩🏽‍💻.
 ¡Busquemos siempre mejorar la experiencia de nuestros usuarios!
-
 
 ##
 
