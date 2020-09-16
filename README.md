@@ -94,7 +94,7 @@ Analizamos las respuestas obtenidas del screener survey encontrando coincidencia
 **FASE DE DEFINICIÓN**
 
 ## 9. Bajada de información / Affinity Diagram
-Después de realizar las entrevistas lo primero que hicimos fue hacer una bajada de información, en una matriz de resultados apuntamos notas y las reforzamos con las grabaciones que realizamos y luego sacamos lo que considerábamos realmente relevante y los apuntamos en post-its en Miro y posteriormente realizamos un Affinity Diagram (agrupamos por afinidad los datos similares) aquí solo quedaron los datos más importantes y desechamos los que no hacían falta.
+Después de realizar las entrevistas lo primero que hicimos fue hacer una bajada de información, en una matriz de resultados apuntamos notas y las reforzamos con las grabaciones que realizamos y luego sacamos lo que considerábamos realmente relevante y los apuntamos en post its en Miro y posteriormente realizamos un Affinity Diagram (agrupamos por afinidad los datos similares) aquí solo quedaron los datos más importantes y desechamos los que no hacían falta.
 Después de esto ya estábamos listas para buscar patrones y generar insigths.
 
 - Principales hallazgos de la entrevista con usuarios: 
@@ -150,11 +150,9 @@ Desarrollamos los prototipos de baja fidelidad de todo el flujo e hicimos tests 
 Mi equipo y yo logramos crear una solución digital que permitía a los potenciales usuarios a poder recibir una información clara y detallada sobre los tipos de cuentas de ahorros que el banco ofrecía permitiendole de una manera dinámica poder entenderla y decidirse por la que mas le conviene, ellos lograron sentirse acompañados durante su proceso de solicitud de apertura de cuenta de ahorros en la web ya que su mayor temor era no saber o no entender ciertos términos que los pudiesen llevar al error, a su vez la implementación del sistema FacePhi fue una gran opción que los ayudaba a poder realizar diversas operaciones con su cuenta activada desde la app y evitar acercarse a los bancos a realizar largas colas que los exponian al contagio.
 
 ## 15. Mi aprendizaje
-En este proyecto aprendí que es casi imposible saber si el diseño estará terminado en algún momento 🙄 siempre habrá cosas por corregir, rehacer, revisar, reajustar ...
-Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable que será necesario continuar refinándolo cada cierto tiempo 👩🏽‍💻.
-¡Busquemos siempre mejorar la experiencia de nuestros usuarios!
+En este proyecto aprendí que tener sesiones de brainstorming es fundamental, aunque parezca ser algo sencillo tienen muchos factores que la forman e influyen en los resultados y por eso debemos prestar atención a cada detalle o de lo contrario los resultados que obtengamos no serán los que esperamos🙄. También aprendí que al realizar entrevistas debo enfocarme en hacer preguntas al entrevistado en las que me pueda contar como es su experiencia al usar X producto o servicio ya sea mala o buena y nunca pedirles que me digan que es lo quieren por que ya sabemos que: “Si le hubiera preguntado a la gente qué quería, habrían dicho un caballo más rápido”_Henry Ford 👩🏽‍💻.
 
 ##
 
 ###### Proyecto realizado por: Claudia Cortez, Katherin Chi, Leslie Benel y Leydi Torres
-###### LABORATORIA (TRACK UX-CDMX009-LIM012) 
+###### LABORATORIA (TRACK UX-CDMX009-LIM012 / Modalidad remota) 
