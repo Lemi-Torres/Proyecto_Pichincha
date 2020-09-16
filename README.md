@@ -18,7 +18,7 @@ Chatbot vía WhatsApp e implementación de autenticación facial en la app origi
 * [2. Problema](#2-problema)
 * [3. Reto](#3-reto)
 * [4. Objetivos](#4-user-persona)
-* [4. User Persona](#4-user-persona)
+* [5. Business Model Canvas](#4-business-model-canvas)
 * [5. Solución Digital](#5-solución-digital)
 * [6. Resultados](#6-resultados)
 * [7. Mi aprendizaje](#7-mi-aprendizaje)
@@ -40,10 +40,10 @@ El objetivo del banco era generar la mejor experiencia del cliente en el context
 Nuestro foco principal fue buscar una solución digital que ayudase a las y los clientes a poder aperturar su cuenta de ahorros sin que se encuentren en las oficinas del banco. 
 
 ##
-**Basamos nuestro proyecto en el proceso de Design Thinking ya que implementar esto nos permite desarrollar un producto innovador desde una perspectiva más humana en muy poco tiempo**
-
-
-## 4. User Persona
+**Basamos nuestro proyecto en el proceso de Design Thinking ya que implementar esto nos permite desarrollar un producto innovador desde una perspectiva más humana en muy poco tiempo.**
+##
+**FASE DE INVESTIGACIÓN**
+## 5. Business Model Canvas
 Magaly es licenciada en Psicología. Actualmente tiene un empleo en una institución donde brinda apoyo psicológico a niños con TDAH y continúa capacitándose de modo online para reforzar conocimientos en su área profesional y seguir brindando una atención de calidad a sus pacientes.
 
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/user_persona.png)
