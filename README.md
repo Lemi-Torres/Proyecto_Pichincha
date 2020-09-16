@@ -105,10 +105,10 @@ Después de esto ya estábamos listas para buscar patrones y generar insigths.
   
 - Principales hallazgos de de la entrevista con colaboradora:
   - ***"El digital no está conectado con RENIEC (por eso pide más datos)", "Solo puedes recibir dinero, no sacarlo"***
-  - ***"Hay personas a las que les gusta preguntar de todo, no confían en lo digital", "Quieren que se les explique, buscan más asesoría"***
-  - ***"vienen al banco Pichincha a crearse su cuenta 4.5, lo que hemos tenido más acogida ha sido por ello, también por los fondos de AFP y por clientes que quieren ganar mayor interés en la cuenta"***
-"los clientes quieren que los atiendan rápido y eso genera tensión ya sea en nuestra atención y en sí en la oficina"
-“A veces por confianza se le tiene que explicar más de una vez a titulares y familiares los beneficios del producto, lo cual hace que el proceso tarde un poco más”.
+  - ***"Vienen al banco Pichincha a crearse su cuenta 4.5, lo que hemos tenido más acogida ha sido por ello, también por los fondos de AFP y por clientes que quieren ganar mayor interés en la cuenta"***
+  - ***"Los clientes quieren que los atiendan rápido y eso genera tensión ya sea en nuestra atención y en sí en la oficina".***
+  - ***“A veces por confianza se le tiene que explicar más de una vez a titulares y familiares los beneficios del producto, lo cual hace que el proceso tarde un poco más”.***
+  
 Insigths:
 User persona
 
