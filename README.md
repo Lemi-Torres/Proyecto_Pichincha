@@ -75,11 +75,20 @@ En esta etapa tuvimos la oportunidad de realizar dos tipos de entrevistas, a usu
   - ¿Qué factores influyen en la apertura y utilización de una cuenta de ahorros en contexto de emergencia para personas de la generación X?
 - Objetivos específicos de la entrevista:
   - Cultura de ahorro.
-Situación financiera pre Covid y actual.
-Conocer experiencias de los usuarios donde se sintieron vulnerables en plataformas digitales y/o física.
-Entender que tanto conocen los usuarios del proceso y los beneficios de aperturar una cuenta de ahorros en el banco.
-Conocer sus experiencias digitales.
-Después de ello analizamos las respuestas obtenidas del screener survey encontrando coincidencias en 5 usuarios que aceptaron pasar a entrevistas
+  - Situación financiera pre Covid y actual.
+  - Conocer experiencias de los usuarios donde se sintieron vulnerables en plataformas digitales y/o física.
+  - Entender que tanto conocen los usuarios del proceso y los beneficios de aperturar una cuenta de ahorros en el banco.
+  - Conocer sus experiencias digitales.
+  
+Después de ello analizamos las respuestas obtenidas del screener survey encontrando coincidencias en 5 usuarios que aceptaron pasar a entrevistas. Antes de llevarlas a cabo elaboramos un script de entrevista (guion de entrevistas) y básicamente lo que hicimos fue preguntar al usuario como era su experiencia hoy en día con los productos y servicios que los bancos les ofrecían para poder identificar las necesidades que podíamos cubrir con nuestro futuro diseño. Nunca les preguntamos o les dijimos que nos digan que es lo querían por que ya sabemos que: “Si le hubiera preguntado a la gente qué quería, habrían dicho un caballo más rápido”_Henry FordAntes de llevarlas a cabo elaboramos un script de entrevista (guion de entrevistas) y básicamente lo que hicimos fue preguntar al usuario como era su experiencia hoy en día con los productos y servicios que los bancos les ofrecían para poder identificar las necesidades que podíamos cubrir con nuestro futuro diseño. Nunca les preguntamos o les dijimos que nos digan que es lo querían por que ya sabemos que: “Si le hubiera preguntado a la gente qué quería, habrían dicho un caballo más rápido”_Henry Ford
+
+2. Entrevista a una colaboradora del banco:
+- Pregunta de investigación:
+  - ¿Cómo es el proceso de apertura de una cuenta de ahorros en contexto de estado de emergencia?
+- Objetivos específicos de la entrevista:
+  - Conocer el proceso de apertura de una cuenta de ahorros en contexto Covid-19.
+  - Identificar las fortalezas y puntos de dolor dentro del proceso.
+  - Conocer la percepción y expectativas de la colaboradora en el proceso de apertura de Cuenta de Ahorros.
 
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/wireframes.png)
 
