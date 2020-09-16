@@ -123,37 +123,34 @@ Contexto (Búsqueda de información): Ante la pandemia Covid 19, Flor ha decidid
 
 ## 11. HMW
 Según nuestros hallazgos, nos dimos cuenta que debíamos tomar en consideración dos momentos en especial: el antes y el durante del proceso de apertura así que para poder entender mejor los problemas y desarrollar mejores hipótesis realizamos How Might We (Cómo podríamos), redefiniendo el reto inicial de la siguiente manera:
-- ¿Cómo podríamos brindar un mayor acompañamiento y transmitir seguridad en la realización de la apertura de una cuenta de ahorros para que potenciales clientes de la generación X tengan confianza en realizarla desde su hogar?
-- ¿Cómo podríamos brindar información detallada y de fácil entendimiento para que potenciales clientes de la generación X puedan decidir qué tipo de cuenta de ahorros les conviene?
+- ¿Cómo podríamos brindar información detallada y de fácil entendimiento para que potenciales usuarios de la generación X puedan decidir qué tipo de cuenta de ahorros les conviene?
+- ¿Cómo podríamos brindar un mayor acompañamiento y transmitir seguridad en la realización de la apertura de una cuenta de ahorros para que potenciales usuarios de la generación X tengan confianza en realizarla desde su hogar?
+- ¿Cómo podríamos realizar la validación y activación de la cuenta de ahorros para que potenciales usuarios de la generación X culminen su proceso sin la necesidad de acercarse al banco para realizar dichos procedimientos?
 
 ##
 **FASE DE IDEACIÓN**
 
 ## 12. Brainstorming
 
-Empezamos nuestro proceso de crear soluciones para resolver los problemas que encontramos y planteamos en el HMW. Realizamos de modo grupal una lluvia de ideas y empezamos a generar nuevas y diversas ideas, después de esto analizamos las ideas y elegimos las más adecuadas o interesantes para solucionar el problema planteado.
+Empezamos nuestro proceso de crear soluciones para resolver los problemas que encontramos y planteamos en el HMW. Realizamos de modo grupal una lluvia de ideas y empezamos a generar nuevas y diversas ideas, después de esto analizamos las ideas y elegimos las más adecuadas o interesantes para solucionar el problema planteado y con esto realizamos un User flow para su posterior prototipado.
 
 ##
 **FASE DE PROTOTIPADO Y VALIDACIÓN**
 
-## 13. Problema - Solución
-Desarrollamos los prototipos de todo el flujo e hicimos tests de usabilidad con 5 usuarios.
-1.Problema: Realizamos un prototipo de baja fidelidad de nuestra solución que se basaba en resolver el **Antes del proceso**, es decir cuando el usuario emprendía la Búsqueda de información en el banco de su interés.
-Solución: Chatbot vía WhatsApp, ya que para nuestros usuarios este era el medio de comunicación más usado y confiable
-2.Problema: testeamos la sección de apertura de cuenta de ahorros de la página web del Banco y basándonos en los hallazgos obtenidos decidimos trabajar en el **Durante el proceso** , ya que la gente a pesar de realizar la apertura de su cuenta desde la página seguía necesitando ir al banco para la activación.
-Solución: Rediseñar la sección de Confirmación del proceso de solicitud de la apertura de una cuenta de ahorros en la página web e implementar la autenticación facial en la app del banco para la validación y activación de la cuenta de modo 100% online.
+## 13. Solución Digital
+- **Chatbot vía WhatsApp**, para nuestros usuarios este era el medio de comunicación más utilizado y a traves de el podíamos ofrecer información clara y detallada y también ayudarlos en su proceso de apertura por la página web sin la presencia de un asesor acortando el tiempo que normalmente ellos tomaban para asesorar a los usuarios interesados.
+- **Implementación de autenticación facial en la app**, realizar esto ayudaba a que nuestros usuarios puedan validar su identidad de una manera segura y evitar acercarse al banco para culminar su proceso y para poder anunciarlo tuvimos que rediseñar la sección de Confirmación del proceso de solicitud de la apertura de una cuenta de ahorros en la página web.
 
-Gracias a los resultados que obtuvimos durante estos testeos pudimos mejorar e iterar la propuesta que tuvimos inicialmente, siendo esta la solución digital final:
-
+Desarrollamos los prototipos de baja fidelidad de todo el flujo e hicimos tests de usabilidad con 5 usuarios y gracias a los resultados que obtuvimos durante estos testeos pudimos mejorar e iterar la propuesta que tuvimos inicialmente, siendo esta la solución digital final:
 
 :arrow_right:  **Links:** [Prototipo Figma](https://www.figma.com/file/Sv4aDwLlZH3TsWXuCbXRvL/WebSite-Grupo-%C3%81mate?node-id=911%3A6843)
 | [Prototipo navegable](https://n9.cl/guqeg)
 
-## 6. Resultados
+## 14. Resultados
 Mi equipo y yo logramos crear una propuesta digital atractiva que captó la atención de las y los potenciales usuarios motivándolos a navegar en la web de Ámate en búsqueda de información, a su vez la implementación de la ficha de inscripción en la web ayudó a reducir el tiempo que se tomaban anteriormente cuando recibían la ficha vía email, esta agilización los animaba aún más a su inscripción en alguna capacitación de su interés.
 Adicional cumplimos con las actividades planeadas por sprint en el tiempo establecido, siendo nuestro proyecto aprobado por la clienta.
 
-## 7. Mi aprendizaje
+## 15. Mi aprendizaje
 En este proyecto aprendí que es casi imposible saber si el diseño estará terminado en algún momento 🙄 siempre habrá cosas por corregir, rehacer, revisar, reajustar ...
 Cuando crees que el diseño ya está listo pues aún no lo esta, es muy probable que será necesario continuar refinándolo cada cierto tiempo 👩🏽‍💻.
 ¡Busquemos siempre mejorar la experiencia de nuestros usuarios!
