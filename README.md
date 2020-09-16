@@ -19,9 +19,9 @@ Chatbot vía WhatsApp e implementación de autenticación facial en la app origi
 * [3. Reto](#3-reto)
 * [4. Objetivos](#4-objetivos)
 * [5. Business Model Canvas](#5-business-model-canvas)
-* [5. Solución Digital](#5-solución-digital)
-* [6. Resultados](#6-resultados)
-* [7. Mi aprendizaje](#7-mi-aprendizaje)
+* [6. Solución Digital](#6-solución-digital)
+* [7. Resultados](#7-resultados)
+* [8. Mi aprendizaje](#8-mi-aprendizaje)
 
 ## 1. Contexto
 Banco Pichincha es parte del Grupo Pichincha, el mayor grupo financiero privado de Ecuador. Llegó a nuestro país hace más de 20 años y en su búsqueda permanente por propiciar un impacto positivo y justo en la sociedad, ha convertido a la sostenibilidad y a la responsabilidad social corporativa en pilares fundamentales de su modelo de negocio. 
@@ -43,13 +43,27 @@ Nuestro foco principal fue buscar una solución digital que ayudase a las y los 
 **Basamos nuestro proyecto en el proceso de Design Thinking ya que implementar esto nos permite desarrollar un producto innovador desde una perspectiva más humana en muy poco tiempo.**
 ##
 **FASE DE INVESTIGACIÓN**
+
 ## 5. Business Model Canvas
 Magaly es licenciada en Psicología. Actualmente tiene un empleo en una institución donde brinda apoyo psicológico a niños con TDAH y continúa capacitándose de modo online para reforzar conocimientos en su área profesional y seguir brindando una atención de calidad a sus pacientes.
 
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/user_persona.png)
 
-## 5. Solución Digital
-Tras haber pasado por las distintas etapas de la Metodología Design Thinking: Empatía, Definición e Ideación, pasamos al desarrollo del modelo de la solución digital, la cual fue realizada en corto tiempo para poder ser iteradas con las y los usuarios finales pensando siempre en proporcionarles una experiencia digital positiva.
+## 6. Benchmarck
+Realizamos un análisis de la competencia de nuestro producto, esto no ayudaría a tener una mejor referencia en funcionalidades y objetivos del proyecto.
+Antes de empezar, era importante tener claros dos aspectos: qué productos vamos a analizar y qué criterios utilizaremos para evaluarlos.
+Así que primero hicimos una selección de cinco productos. Esto evitaba que nuestra visión se encuentre limitada a solo 5 ejemplos muy concretos. Porque  si teníamos demasiados ejemplos, nos hubiera resultado más difícil llevar a cabo una investigación exhaustiva y probablemente hubiéramos analizado lo mismo una y otra vez, adicional a ello definimos los criterios de análisis antes de comenzar, para asegurar que no estábamos influenciadas por un producto concreto y esto nos ayudaría también a entender por qué la gente los prefería a la hora de aperturar una cuenta de ahorros en un proceso online.
+
+## 6. Protopersona
+La clienta nos hizo llegar cierta información que junto a nuestra breve investigación nos sirvió como punto de partida para la realización de un protopersona (personaje semi-ficticio) el cual nos ayudaría a comprender mejor el perfil de nuestros usuarios.
+
+-Características generales del target:
+-Trabajador independiente
+-Generación X
+-Acceso a internet
+-Percibe ingresos
+-Experiencia en la adquisición de algún producto financiero
+-Después de esto lanzamos un screener survey en diversas redes sociales con el fin de captar usuarias y usuarios que cumpliesen con el perfil requerido.para llevarlos a   entrevistas.
 
 **WIREFRAMES**
 ###### Esqueleto del Diseño
