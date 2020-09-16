@@ -80,7 +80,7 @@ En esta etapa tuvimos la oportunidad de realizar dos tipos de entrevistas, a usu
   - Entender que tanto conocen los usuarios del proceso y los beneficios de aperturar una cuenta de ahorros en el banco.
   - Conocer sus experiencias digitales.
   
-Después de ello analizamos las respuestas obtenidas del screener survey encontrando coincidencias en 5 usuarios que aceptaron pasar a entrevistas. Antes de llevarlas a cabo elaboramos un script de entrevista (guion de entrevistas) y básicamente lo que hicimos fue preguntar al usuario como era su experiencia hoy en día con los productos y servicios que los bancos les ofrecían para poder identificar las necesidades que podíamos cubrir con nuestro futuro diseño. Nunca les preguntamos o les dijimos que nos digan que es lo querían por que ya sabemos que: “Si le hubiera preguntado a la gente qué quería, habrían dicho un caballo más rápido”_Henry FordAntes de llevarlas a cabo elaboramos un script de entrevista (guion de entrevistas) y básicamente lo que hicimos fue preguntar al usuario como era su experiencia hoy en día con los productos y servicios que los bancos les ofrecían para poder identificar las necesidades que podíamos cubrir con nuestro futuro diseño. Nunca les preguntamos o les dijimos que nos digan que es lo querían por que ya sabemos que: “Si le hubiera preguntado a la gente qué quería, habrían dicho un caballo más rápido”_Henry Ford
+Analizamos las respuestas obtenidas del screener survey encontrando coincidencias en 5 usuarios que aceptaron pasar a entrevistas, pero antes de llevarlas a cabo elaboramos un script de entrevista (guion de entrevistas) y básicamente lo que hicimos fue preguntar al usuario como era su experiencia hoy en día con los productos y servicios que los bancos les ofrecían para poder identificar las necesidades que podíamos cubrir con nuestro futuro diseño, nunca les preguntamos o les dijimos que nos digan que es lo que querían por que ya sabemos que: “Si le hubiera preguntado a la gente qué quería, habrían dicho un caballo más rápido”_Henry Ford
 
 2. Entrevista a una colaboradora del banco:
 - Pregunta de investigación:
@@ -92,14 +92,31 @@ Después de ello analizamos las respuestas obtenidas del screener survey encontr
 
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/wireframes.png)
 
-**MOCKUPS**
-###### Piel del Diseño
+##
+**FASE DE DEFINICIÓN**
 
-Una vez definido el concepto, la estructura y los componentes básicos del diseño, realizamos mockups de alta fidelidad (son representaciones estáticas que demuestran cómo se van a representar visualmente los elementos definidos, en el wireframe).
+## 5. Bajada de información / Affinity Diagram
+Después de realizar las entrevistas lo primero que hicimos fue hacer una bajada de información, en una matriz de resultados apuntamos notas y las reforzamos con las grabaciones que realizamos y luego sacamos lo más importante, lo que considerábamos realmente relevante y los apuntamos en post its en Miro y posteriormente realizamos un Affinity Diagram (agrupamos por afinidad los datos similares) aquí solo quedaron los datos más importantes y desechamos los que no hacían falta.
+Después de esto ya estábamos listas para buscar patrones y generar insigths.
 
-La herramienta que utilizamos fue Figma y en este punto ya teníamos una idea clara de qué apariencia visual iba a tener nuestro producto, los detalles visuales como por ejemplo el color debía representar al negocio, es por ello que era imprescindible utilizar azul y amarillo como colores predominantes en la web.
+- Principales Hallazgos- entrevista con usuarios:
+  - Son personas que tienen un deseo por integrarse al sector digital, pero que aún no se acostumbran *"Me gustaría aprender y poder hacerlo yo directamente”._U1*
+El contexto de emergencia los ha llevado a evitar sitios concurridos y aglomerados "Yo no iría (bancos), por la aglomeración de gente, me daría miedo contagiarme" "Ahora con la pandemia si me siento inseguro por las colas que tengo que hacer"_U2
+La elección de un banco se basa en dos aspectos:
+Si sus conocidos y entorno cercano son clientes de alguna entidad financiera "Escogería el BCP. No conozco los beneficios que me podría dar pero toda mi familia tiene su cuenta de ahorro allí"_U5
+Que les genere una buena tasa de interés  “Si voy a ahorrar en el banco me tienen que generar buenos intereses por mi dinero”._U2
+Están interesados en abrir una cuenta de ahorros para poder realizar operaciones financieras "ayudaría ahora que estoy vendiendo cosas por internet" “mis clientes me piden número de cuenta para depositarme el dinero”_U4
+Predomina en los entrevistados un primer acercamiento de tipo no personal, tales como el uso de internet “Buscaría en Google, entraría a la página del banco a buscar información”._U3
+Prefieren tener a un asesor cerca para realizar la apertura de su cuenta de ahorros, ya que consideran que el proceso sería más seguro y sienten que podrán recibir una información más detallada  "Deseo que me asesoren y me puedan guiar para hacer mi proceso correctamente, que lo hagan con paciencia y de buena manera”._U5
+Hallazgos de entrevista con colaboradora:
+"El digital no está conectado con RENIEC (por eso pide más datos)" "Solo puedes recibir dinero, no sacarlo"
+"Hay personas a las que les gusta preguntar de todo, no confían en lo digital" "Quieren que se les explique, buscan más asesoría"
+"vienen al banco Pichincha a crearse su cuenta 4.5, lo que hemos tenido más acogida ha sido por ello, también por los fondos de AFP y por clientes que quieren ganar mayor interés en la cuenta"
+"los clientes quieren que los atiendan rápido y eso genera tensión ya sea en nuestra atención y en sí en la oficina"
+“A veces por confianza se le tiene que explicar más de una vez a titulares y familiares los beneficios del producto, lo cual hace que el proceso tarde un poco más”.
+Insigths:
+User persona
 
-En reuniones con la clienta discutimos si el aspecto visual y la comunicación encajaba con lo que se buscaba y recibimos su aprobación, así que pasamos a evaluar a potenciales usuarios con nuestro producto, buscábamos saber si este les parecía atractivo, si les transmitía o comunicaba aquello que buscaban de forma clara o si se entendía.
 
 ![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/mockups.jpg)
 
