@@ -22,14 +22,14 @@ Chatbot vía WhatsApp e implementación de autenticación facial en la app origi
 * [6. Benchmarck](#6-benchmarck)
 * [7. Protopersona](#7-protopersona)
 * [8. Entrevistas](#8-entrevistas)
-* [9. Affinity Diagram](#8-affinity-diagram)
-* [10. User Persona](#1-user-persona)
-* [11. Journey Map](#2-journey-map)
-* [12. How Might We](#3-how-might-we)
-* [13. Brainstorming](#4-brainstorming)
-* [14. Solución Digital](#5-solución-digital)
-* [15. Resultados](#6-resultados)
-* [16. Mi aprendizaje](#7-mi-aprendizaje)
+* [9. Affinity Diagram](#9-affinity-diagram)
+* [10. User Persona](#10-user-persona)
+* [11. Journey Map](#11-journey-map)
+* [12. How Might We](12-how-might-we)
+* [13. Brainstorming](#13-brainstorming)
+* [14. Solución Digital](#14-solución-digital)
+* [15. Resultados](#15-resultados)
+* [16. Mi aprendizaje](#16-mi-aprendizaje)
 
 ## 1. Contexto
 Banco Pichincha es parte del Grupo Pichincha, el mayor grupo financiero privado de Ecuador. Llegó a nuestro país hace más de 20 años y en su búsqueda permanente por propiciar un impacto positivo y justo en la sociedad, ha convertido a la sostenibilidad y a la responsabilidad social corporativa en pilares fundamentales de su modelo de negocio. 
