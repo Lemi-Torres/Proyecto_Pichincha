@@ -55,7 +55,7 @@ Nuestro foco principal fue buscar una solución digital que ayudase a las y los 
 ## 5. Business Model Canvas
 Esta es una herramienta empleada en la metodología Lean Startup y nosotras decidimos utilizarla para entender de una manera rápida y sencilla cómo funciona el modelo de negocio de la empresa sin la necesidad de una extensa documentación.
 
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/user_persona.png)
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/business_model_canvas.jpg)
 
 ## 6. Benchmarck
 Realizamos un análisis de la competencia de nuestro producto, esto no ayudaría a tener una mejor referencia en funcionalidades y objetivos del proyecto.
