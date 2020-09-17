@@ -122,7 +122,7 @@ Insigths:
 ## 10. User Persona
 Definimos a nuestro tipo de usuario (personaje semi-ficticio) esto nos permitiría tener un contexto más amplio y conocer las motivaciones, intereses y comportamientos de quien sería la persona que interactuaría con nuestro producto.
 
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/mockups.jpg)
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/user_persona.jpg)
 
 ## 11. Journey Map
 Contexto (Búsqueda de información): Ante la pandemia Covid 19, Flor ha decidido aperturar una cuenta de ahorro en una entidad financiera para poder recibir los pagos de sus clientes, realizar los pagos de sus insumos y además está considerando la opción mantener un monto como ahorro ante situaciones de emergencia. Actualmente está analizando qué entidad financiera le conviene.
