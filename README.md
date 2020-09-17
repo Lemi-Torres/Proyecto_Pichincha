@@ -60,7 +60,7 @@ Esta es una herramienta empleada en la metodología Lean Startup y nosotras deci
 ## 6. Benchmarck
 Realizamos un análisis de la competencia de nuestro producto, esto no ayudaría a tener una mejor referencia en funcionalidades y objetivos del proyecto.
 Antes de empezar, era importante tener claros dos aspectos: qué productos vamos a analizar y qué criterios utilizaremos para evaluarlos.
-Así que primero hicimos una selección de cinco productos, esto evitaba que nuestra visión se encuentre limitada a solo 5 ejemplos muy concretos porque  si teníamos demasiados ejemplos, nos hubiera resultado más difícil llevar a cabo una investigación exhaustiva y probablemente hubiéramos analizado lo mismo una y otra vez, adicional a ello definimos los criterios de análisis antes de comenzar para asegurar que no estábamos influenciadas por un producto en concreto y también nos ayudaría  a entender por qué la gente los prefería a la hora de aperturar una cuenta de ahorros en un proceso online.
+Así que primero hicimos una selección de cinco productos, esto evitaba que nuestra visión se encuentre limitada a solo 5 ejemplos muy concretos porque  si teníamos demasiados ejemplos, nos hubiera resultado más difícil llevar a cabo una investigación exhaustiva, adicional a ello definimos los criterios de análisis antes de comenzar para asegurar que no estábamos influenciadas por un producto en concreto y también nos ayudaría  a entender por qué la gente los prefería a la hora de aperturar una cuenta de ahorros en un proceso online, siendo estos los resultados de nuestro análisis:
 
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/benchmark.png)
 
@@ -75,6 +75,8 @@ Características generales del target:
 - Experiencia en la adquisición de algún producto financiero
 
 Después de esto lanzamos un screener survey en diversas redes sociales con el fin de captar usuarios que cumpliesen con el perfil requerido para llevarlos a entrevistas.
+
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/screener_survey.png)
 
 ## 8. Entrevistas
 
