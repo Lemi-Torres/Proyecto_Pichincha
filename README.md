@@ -62,6 +62,8 @@ Realizamos un análisis de la competencia de nuestro producto, esto no ayudaría
 Antes de empezar, era importante tener claros dos aspectos: qué productos vamos a analizar y qué criterios utilizaremos para evaluarlos.
 Así que primero hicimos una selección de cinco productos, esto evitaba que nuestra visión se encuentre limitada a solo 5 ejemplos muy concretos porque  si teníamos demasiados ejemplos, nos hubiera resultado más difícil llevar a cabo una investigación exhaustiva y probablemente hubiéramos analizado lo mismo una y otra vez, adicional a ello definimos los criterios de análisis antes de comenzar para asegurar que no estábamos influenciadas por un producto en concreto y también nos ayudaría  a entender por qué la gente los prefería a la hora de aperturar una cuenta de ahorros en un proceso online.
 
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/benchmark.png)
+
 ## 7. Protopersona
 La clienta nos hizo llegar cierta información que junto a nuestra breve investigación nos sirvió como punto de partida para la realización de un protopersona (personaje semi-ficticio) el cual nos ayudaría a comprender mejor el perfil de nuestros posibles usuarios.
 
