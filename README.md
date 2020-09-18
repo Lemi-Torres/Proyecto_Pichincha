@@ -109,14 +109,15 @@ Después de esto ya estábamos listas para buscar patrones y generar insigths.
 
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/affinity_map.jpg)
 
-HALLAZGOS - USUARIOS POTENCIALES
+USUARIOS POTENCIALES
 
+- **Principales hallazgos:**
   - El contexto de emergencia los ha llevado a evitar sitios concurridos y aglomerados *"Yo no iría (bancos), por la aglomeración de gente, me daría miedo contagiarme en las largas colas que tendría que hacer".* _U2
-  - La elección de un banco se basa en dos aspectos importantes ***"Escogería el mismo banco de mi familia".*** _U5 ***“Buscaría un banco que me genere buenos intereses por mi dinero”.*** _U3
-  - Están interesados en abrir una cuenta de ahorros para poder realizar operaciones financieras ***“Mis clientes me piden número de cuenta para depositarme el dinero”.*** _U4
-  - Prefieren tener a un asesor cerca para realizar la apertura de su cuenta de ahorros ***"Deseo que me asesoren y me puedan guiar para hacer mi proceso correctamente”.*** _U5
+  - La elección de un banco se basa en dos aspectos importantes *"Escogería el mismo banco de mi familia".* _U5 *“Buscaría un banco que me genere buenos intereses por mi dinero”.* _U3
+  - Están interesados en abrir una cuenta de ahorros para poder realizar operaciones financieras *“Mis clientes me piden número de cuenta para depositarme el dinero”.* _U4
+  - Prefieren tener a un asesor cerca para realizar la apertura de su cuenta de ahorros *"Deseo que me asesoren y me puedan guiar para hacer mi proceso correctamente”.* _U5
   
-**INSIGHTS:**
+**Insights:**
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/insights.jpg)
   
 - Principales hallazgos de la entrevista con colaboradora:
