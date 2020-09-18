@@ -18,15 +18,12 @@ Chatbot vía WhatsApp e implementación de autenticación facial en la app origi
 * [2. Problema](#2-problema)
 * [3. Reto](#3-reto)
 * [4. Objetivos](#4-objetivos)
-* [5. Business Model Canvas](#5-business-model-canvas)
-* [6. Benchmarck](#6-benchmarck)
-* [7. Protopersona](#7-protopersona)
-* [8. Entrevistas](#8-entrevistas)
-* [9. Affinity Diagram](#9-affinity-diagram)
-* [10. User Persona](#10-user-persona)
-* [14. Solución Digital](#14-solución-digital)
-* [15. Resultados](#15-resultados)
-* [16. Mi aprendizaje](#16-mi-aprendizaje)
+* [5. Fase de Investigación](#5-fase-de-investigación)
+* [6. Fase de Definición](#6-fase-de-definición)
+* [7. Fase de Ideación](#7-fase-de-ideación)
+* [8. Fase de Prototipado y Validación](#8-fase-de-prototipado-validación)
+* [9. Resultados](#9-resultados)
+* [10. Mi aprendizaje](#10-mi-aprendizaje)
 
 ## 1. Contexto
 Banco Pichincha es parte del Grupo Pichincha, el mayor grupo financiero privado de Ecuador. Llegó a nuestro país hace más de 20 años y en su búsqueda permanente por propiciar un impacto positivo y justo en la sociedad, ha convertido a la sostenibilidad y a la responsabilidad social corporativa en pilares fundamentales de su modelo de negocio. 
@@ -101,7 +98,7 @@ COLABORADORA DEL BANCO
   - Identificar las fortalezas y puntos de dolor dentro del proceso.
   - Conocer la percepción y expectativas de la colaboradora en el proceso de apertura de Cuenta de Ahorros.
   
-## 5. Fase de Definición
+## 6. Fase de Definición
 
 ### Affinity Diagram
 Después de realizar las entrevistas lo primero que hicimos fue hacer una bajada de información, en una matriz de resultados apuntamos notas y las reforzamos con las grabaciones que realizamos y luego sacamos lo que considerábamos realmente relevante y los apuntamos en post its en Miro y posteriormente realizamos un Affinity Diagram (agrupamos por afinidad los datos similares) aquí solo quedaron los datos más importantes y desechamos los que no hacían falta.
@@ -117,14 +114,16 @@ USUARIOS POTENCIALES
   - Están interesados en abrir una cuenta de ahorros para poder realizar operaciones financieras *“Mis clientes me piden número de cuenta para depositarme el dinero”.* _U4
   - Prefieren tener a un asesor cerca para realizar la apertura de su cuenta de ahorros *"Deseo que me asesoren y me puedan guiar para hacer mi proceso correctamente”.* _U5
   
-**Insights:**
+- **Insights:**
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/insights.jpg)
   
-- Principales hallazgos de la entrevista con colaboradora:
-  - El proceso online suele tardar por la cantidad de datos que se pide para la validación de identidad ***"El digital no está conectado con RENIEC (por eso pide más datos)".***
-  - El banco habia tenido un incremento de apertura de cuentas de ahorros bajo el contexto Covid-19 ***"Vienen al banco Pichincha a crearse su cuenta 4.5, también por los fondos de AFP y por clientes que quieren ganar mayor interés en la cuenta"***
-  - A los usuarios no les gusta esperar, buscan una atención rápida ***"Los clientes quieren que los atiendan rápido y eso genera tensión en nuestra atención y en la oficina".***
-  - Los usuarios son muy desconfiados y buscan recibir información detallada de los productos del banco ***“A veces por confianza se le tiene que explicar más de una vez a titulares y familiares los beneficios del producto, lo cual hace que el proceso tarde más”.***
+COLABORADORA DEL BANCO
+
+- **Principales hallazgos:**
+  - El proceso online suele tardar por la cantidad de datos que se pide para la validación de identidad *"El digital no está conectado con RENIEC (por eso pide más datos)".*
+  - El banco habia tenido un incremento de apertura de cuentas de ahorros bajo el contexto Covid-19 *"Vienen al banco Pichincha a crearse su cuenta 4.5, también por los fondos de AFP y por clientes que quieren ganar mayor interés en la cuenta"*
+  - A los usuarios no les gusta esperar, buscan una atención rápida *"Los clientes quieren que los atiendan rápido y eso genera tensión en nuestra atención y en la oficina".*
+  - Los usuarios son muy desconfiados y buscan recibir información detallada de los productos del banco *“A veces por confianza se le tiene que explicar más de una vez a titulares y familiares los beneficios del producto, lo cual hace que el proceso tarde más”.*
 
 ### User Persona
 Definimos a nuestro tipo de usuario (personaje semi-ficticio) esto nos permitiría tener un contexto más amplio y conocer las motivaciones, intereses y comportamientos de quien sería la persona que interactuaría con nuestro producto.
@@ -142,13 +141,13 @@ Según nuestros hallazgos, nos dimos cuenta que debíamos tomar en consideració
 - ¿Cómo podríamos brindar un mayor acompañamiento y transmitir seguridad en la realización de la apertura de una cuenta de ahorros para que potenciales usuarios de la generación X tengan confianza en realizarla desde su hogar?
 - ¿Cómo podríamos realizar la validación y activación de la cuenta de ahorros para que potenciales usuarios de la generación X culminen su proceso sin la necesidad de acercarse al banco para realizar dichos procedimientos?
 
-## 5. Fase de Ideación
+## 7. Fase de Ideación
 
 ### Brainstorming
 
 Empezamos nuestro proceso de crear soluciones para resolver los problemas que encontramos y planteamos en el HMW. Realizamos de modo grupal una lluvia de ideas y empezamos a generar nuevas y diversas ideas, después de esto analizamos las ideas y elegimos las más adecuadas o interesantes para solucionar el problema planteado y con esto realizamos un User flow para su posterior prototipado.
 
-## 5. Fase de Prototipado y Validación
+## 8. Fase de Prototipado y Validación
 
 ### Solución Digital
 - **Chatbot vía WhatsApp**, para nuestros usuarios este era el medio de comunicación más utilizado y a traves de el podíamos ofrecer información clara y detallada y también ayudarlos en su proceso de apertura por la página web sin la presencia de un asesor acortando el tiempo que normalmente ellos tomaban para asesorar a los usuarios interesados.
@@ -159,10 +158,10 @@ Desarrollamos los prototipos de baja fidelidad de todo el flujo e hicimos tests 
 :arrow_right:  **Links:** [Prototipo Figma](https://www.figma.com/file/Sv4aDwLlZH3TsWXuCbXRvL/WebSite-Grupo-%C3%81mate?node-id=911%3A6843)
 | [Prototipo navegable](https://n9.cl/guqeg)
 
-## 6. Resultados
+## 10. Resultados
 Mi equipo y yo logramos crear una solución digital que permitía a los potenciales usuarios a poder recibir una información clara y detallada sobre los tipos de cuentas de ahorros que el banco ofrecía permitiendole de una manera dinámica poder entenderla y decidirse por la que mas le conviene, ellos lograron sentirse acompañados durante su proceso de solicitud de apertura de cuenta de ahorros en la web ya que su mayor temor era no saber o no entender ciertos términos que los pudiesen llevar al error, a su vez la implementación del sistema FacePhi fue una gran opción que los ayudaba a poder realizar diversas operaciones con su cuenta activada desde la app y evitar acercarse a los bancos a realizar largas colas que los exponian al contagio.
 
-## 7. Mi aprendizaje
+## 11. Mi aprendizaje
 En este proyecto aprendí que tener sesiones de brainstorming es fundamental, aunque parezca ser algo sencillo tienen muchos factores que la forman e influyen en los resultados y por eso debemos prestar atención a cada detalle o de lo contrario los resultados que obtengamos no serán los que esperamos🙄. También aprendí que al realizar entrevistas debo enfocarme en hacer preguntas al entrevistado en las que me pueda contar como es su experiencia al usar X producto o servicio ya sea mala o buena y nunca pedirles que me digan que es lo quieren por que ya sabemos que: “Si le hubiera preguntado a la gente qué quería, habrían dicho un caballo más rápido”_Henry Ford 👩🏽‍💻.
 
 ##
