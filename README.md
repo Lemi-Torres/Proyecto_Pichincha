@@ -114,6 +114,7 @@ USUARIOS POTENCIALES
   - Prefieren tener a un asesor cerca para realizar la apertura de su cuenta de ahorros *"Deseo que me asesoren y me puedan guiar para hacer mi proceso correctamente”.* _U5
   
 - **Insights:**
+
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/insights.jpg)
   
 COLABORADORA DEL BANCO
@@ -154,8 +155,11 @@ En la Fase de Ideación realizamos un brainstorming donde generamos nuevas y div
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/prototipo_chatbot.jpg)
 
 - **Implementación de autenticación facial en la app**
-  - realizar esto ayudaba a que nuestros usuarios puedan validar su identidad de una manera segura y evitar acercarse al banco para culminar su proceso y para poder anunciarlo tuvimos que rediseñar la sección de Confirmación del proceso de solicitud de la apertura de una cuenta de ahorros en la página web.
-  
+  - Proponemos que el banco trabaje con la empresa FacePhi que dentro de sus diversos profuctos ofrece SelphID, Solución de onboarding digital con el mejor OCR del mercado en tiempo real y autenticación facial en vivo.
+  - Esta solución permite que nuestros usuarios puedan validar su identidad de una manera rápida y segura evitando acercarse al banco para culminar su proceso de activación de cuenta.
+  - Se extraen todos los datos del documento de identidad, así como la comparación facial de la imagen del documento con el selﬁe del usuario como prueba de vida obtenida en el momento.
+  - Una vez realizada la activación de la cuenta en modo online los usuarios podrán realizar diversos tipos de operaciones como: consultas, depósitos, transferencias, pago de servicios, excepto realizar retiros.
+
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/prototipo_app.jpg)
  
 
