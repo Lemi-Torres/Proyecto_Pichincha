@@ -92,6 +92,8 @@ En esta etapa tuvimos la oportunidad de realizar dos tipos de entrevistas, a usu
   
 Analizamos las respuestas obtenidas del screener survey encontrando coincidencias en 5 usuarios que aceptaron pasar a entrevistas, pero antes de llevarlas a cabo elaboramos un script de entrevista (guion de entrevistas) y básicamente lo que hicimos fue preguntar al usuario como era su experiencia hoy en día con los productos y servicios que los bancos les ofrecían para poder identificar las necesidades que podíamos cubrir con nuestro futuro diseño.
 
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/Entrevistadxs.jpg)
+
 2. Colaboradora del banco:
 - Pregunta de investigación:
   - ¿Cómo es el proceso de apertura de una cuenta de ahorros en contexto de estado de emergencia?
