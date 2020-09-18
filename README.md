@@ -161,8 +161,8 @@ En la Fase de Ideación realizamos un brainstorming donde generamos nuevas y div
 
 Desarrollamos los prototipos de baja fidelidad de todo el flujo e hicimos tests de usabilidad con 5 usuarios y gracias a los resultados que obtuvimos durante estos testeos pudimos mejorar e iterar la propuesta que tuvimos inicialmente, siendo esta la solución digital final:
 
-:arrow_right:  **Links:** [Prototipo Figma](https://www.figma.com/file/Sv4aDwLlZH3TsWXuCbXRvL/WebSite-Grupo-%C3%81mate?node-id=911%3A6843)
-| [Prototipo navegable](https://n9.cl/guqeg)
+:arrow_right:  **Links:** [Prototipo Figma](https://www.figma.com/file/LClyt0k4pRZ6YbY15Th1m5/Proyecto-Pichincha?node-id=558%3A1885)
+| [Prototipo navegable](https://n9.cl/b3dn)
 
 ## 9. Resultados
 Mi equipo y yo logramos crear una solución digital que permitía a los potenciales usuarios a poder recibir una información clara y detallada sobre los tipos de cuentas de ahorros que el banco ofrecía permitiendole de una manera dinámica poder entenderla y decidirse por la que mas le conviene, ellos lograron sentirse acompañados durante su proceso de solicitud de apertura de cuenta de ahorros en la web ya que su mayor temor era no saber o no entender ciertos términos que los pudiesen llevar al error, a su vez la implementación del sistema FacePhi fue una gran opción que los ayudaba a poder realizar diversas operaciones con su cuenta activada desde la app y evitar acercarse a los bancos a realizar largas colas que los exponian al contagio.
