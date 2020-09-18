@@ -49,10 +49,10 @@ Nuestro foco principal fue buscar una solución digital que ayudase a las y los 
 
 ##
 **Basamos nuestro proyecto en el proceso de Design Thinking ya que implementar esto nos permite desarrollar un producto innovador desde una perspectiva más humana en muy poco tiempo.**
-##
-**FASE DE INVESTIGACIÓN**
 
-## 5. Business Model Canvas
+## 5. FASE DE INVESTIGACIÓN
+
+## Business Model Canvas
 Esta es una herramienta empleada en la metodología Lean Startup y nosotras decidimos utilizarla para entender de una manera rápida y sencilla cómo funciona el modelo de negocio de la empresa sin la necesidad de una extensa documentación.
 
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/business_model_canvas.jpg)
