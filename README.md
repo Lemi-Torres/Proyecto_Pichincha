@@ -125,7 +125,8 @@ Después de esto ya estábamos listas para buscar patrones y generar insigths.
   - A los clientes no les gusta esperar y buscan una atención rápida por parte del banco generando incomodidad en los trabajadores ***"Los clientes quieren que los atiendan rápido y eso genera tensión ya sea en nuestra atención y en sí en la oficina".***
   - Los clientes son muy desconfiados y suelen pedir información detallada de los productos del banco ***“A veces por confianza se le tiene que explicar más de una vez a titulares y familiares los beneficios del producto, lo cual hace que el proceso tarde un poco más”.***
   
-Insigths:
+INSIGHTS:
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/insights.jpg)
 
 ## 10. User Persona
 Definimos a nuestro tipo de usuario (personaje semi-ficticio) esto nos permitiría tener un contexto más amplio y conocer las motivaciones, intereses y comportamientos de quien sería la persona que interactuaría con nuestro producto.
