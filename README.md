@@ -101,9 +101,7 @@ Analizamos las respuestas obtenidas del screener survey encontrando coincidencia
   - Conocer el proceso de apertura de una cuenta de ahorros en contexto Covid-19.
   - Identificar las fortalezas y puntos de dolor dentro del proceso.
   - Conocer la percepción y expectativas de la colaboradora en el proceso de apertura de Cuenta de Ahorros.
-
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/wireframes.png)
-
+  
 ##
 **FASE DE DEFINICIÓN**
 
@@ -119,14 +117,14 @@ Después de esto ya estábamos listas para buscar patrones y generar insigths.
   - Están interesados en abrir una cuenta de ahorros para poder realizar operaciones financieras ***"ayudaría ahora que estoy vendiendo cosas por internet" “mis clientes me piden número de cuenta para depositarme el dinero”.*** _U4
   - Prefieren tener a un asesor cerca para realizar la apertura de su cuenta de ahorros ***"Deseo que me asesoren y me puedan guiar para hacer mi proceso correctamente, que lo hagan con paciencia y de buena manera”.*** _U5
   
+**INSIGHTS:**
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/insights.jpg)
+  
 - Principales hallazgos de la entrevista con colaboradora:
   - El proceso online tardaba por la cantidad de datos que se suele pedir para la validación de identidad ***"El digital no está conectado con RENIEC (por eso pide más datos)".***
   - El banco habia tenido un incremento de apertura de cuentas de ahorros bajo en contexto Covid-19 ***"Vienen al banco Pichincha a crearse su cuenta 4.5, lo que hemos tenido más acogida ha sido por ello, también por los fondos de AFP y por clientes que quieren ganar mayor interés en la cuenta"***
   - A los clientes no les gusta esperar y buscan una atención rápida por parte del banco generando incomodidad en los trabajadores ***"Los clientes quieren que los atiendan rápido y eso genera tensión ya sea en nuestra atención y en sí en la oficina".***
   - Los clientes son muy desconfiados y suelen pedir información detallada de los productos del banco ***“A veces por confianza se le tiene que explicar más de una vez a titulares y familiares los beneficios del producto, lo cual hace que el proceso tarde un poco más”.***
-  
-INSIGHTS:
-![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/insights.jpg)
 
 ## 10. User Persona
 Definimos a nuestro tipo de usuario (personaje semi-ficticio) esto nos permitiría tener un contexto más amplio y conocer las motivaciones, intereses y comportamientos de quien sería la persona que interactuaría con nuestro producto.
