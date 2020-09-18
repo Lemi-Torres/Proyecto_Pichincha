@@ -67,9 +67,9 @@ La clienta nos hizo llegar cierta información que junto a nuestra breve investi
 - **Características generales del target:**
     - Trabajador(a) independiente
     - Generación X
-- Acceso a internet
-- Percibe ingresos
-- Experiencia en la adquisición de algún producto financiero
+    - Acceso a internet
+    - Percibe ingresos
+    - Experiencia en la adquisición de algún producto financiero
 
 Después de esto lanzamos un screener survey en diversas redes sociales con el fin de captar usuarios que cumpliesen con el perfil requerido para llevarlos a entrevistas.
 
@@ -79,10 +79,11 @@ Después de esto lanzamos un screener survey en diversas redes sociales con el f
 
 En esta etapa tuvimos la oportunidad de realizar dos tipos de entrevistas, a usuarios potenciales y a una colaboradora del banco.
 
-1. Usuarios potenciales:
-- Pregunta de investigación:
+USUARIOS POTENCIALES
+
+- **Pregunta de investigación:**
   - ¿Qué factores influyen en la apertura y utilización de una cuenta de ahorros en contexto de emergencia para personas de la generación X?
-- Objetivos específicos de la entrevista:
+- **Objetivos específicos de la entrevista:**
   - Situación financiera pre Covid y actual.
   - Entender que tanto conocen los usuarios del proceso y los beneficios de aperturar una cuenta de ahorros en el banco.
   - Conocer sus experiencias digitales.
@@ -91,10 +92,11 @@ Analizamos las respuestas obtenidas del screener survey encontrando coincidencia
 
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/Entrevistadxs.jpg)
 
-2. Colaboradora del banco:
-- Pregunta de investigación:
+COLABORADORA DEL BANCO
+
+- **Pregunta de investigación:**
   - ¿Cómo es el proceso de apertura de una cuenta de ahorros en contexto de estado de emergencia?
-- Objetivos específicos de la entrevista:
+- **Objetivos específicos de la entrevista:**
   - Conocer el proceso de apertura de una cuenta de ahorros en contexto Covid-19.
   - Identificar las fortalezas y puntos de dolor dentro del proceso.
   - Conocer la percepción y expectativas de la colaboradora en el proceso de apertura de Cuenta de Ahorros.
