@@ -136,10 +136,12 @@ Contexto (Búsqueda de información): Ante la pandemia Covid 19, Flor ha decidid
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/journey_map.jpg)
 
 ### How Might We
-Según nuestros hallazgos, nos dimos cuenta que debíamos tomar en consideración dos momentos en especial: el antes y el durante del proceso de apertura así que para poder entender mejor los problemas y desarrollar mejores hipótesis realizamos HMW (Cómo podríamos), redefiniendo el reto inicial de la siguiente manera:
-- ¿Cómo podríamos brindar información detallada y de fácil entendimiento para que potenciales usuarios de la generación X puedan decidir qué tipo de cuenta de ahorros les conviene?
-- ¿Cómo podríamos brindar un mayor acompañamiento y transmitir seguridad en la realización de la apertura de una cuenta de ahorros para que potenciales usuarios de la generación X tengan confianza en realizarla desde su hogar?
-- ¿Cómo podríamos realizar la validación y activación de la cuenta de ahorros para que potenciales usuarios de la generación X culminen su proceso sin la necesidad de acercarse al banco para realizar dichos procedimientos?
+Según nuestros hallazgos, nos dimos cuenta que debíamos tomar en consideración dos momentos en especial: el antes y el durante del proceso de apertura así que para poder entender mejor los problemas y desarrollar mejores hipótesis realizamos HMW (Cómo podríamos).
+
+- **Replanteamiento del reto inicial:**
+  - ¿Cómo podríamos brindar información detallada y de fácil entendimiento para que potenciales usuarios de la generación X puedan decidir qué tipo de cuenta de ahorros les conviene?
+  - ¿Cómo podríamos brindar un mayor acompañamiento y transmitir seguridad en la realización de la apertura de una cuenta de ahorros para que potenciales usuarios de la generación X tengan confianza en realizarla desde su hogar?
+  - ¿Cómo podríamos realizar la validación y activación de la cuenta de ahorros para que potenciales usuarios de la generación X culminen su proceso sin la necesidad de acercarse al banco para realizar dichos procedimientos?
 
 ## 7. Fase de Ideación
 
