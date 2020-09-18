@@ -64,9 +64,9 @@ Así que primero hicimos una selección de cinco productos, esto evitaba que nue
 ### Protopersona
 La clienta nos hizo llegar cierta información que junto a nuestra breve investigación nos sirvió como punto de partida para la realización de un protopersona (personaje semi-ficticio) el cual nos ayudaría a comprender mejor el perfil de nuestros posibles usuarios.
 
-Características generales del target:
-- Trabajador(a) independiente
-- Generación X
+- **Características generales del target:**
+    - Trabajador(a) independiente
+    - Generación X
 - Acceso a internet
 - Percibe ingresos
 - Experiencia en la adquisición de algún producto financiero
