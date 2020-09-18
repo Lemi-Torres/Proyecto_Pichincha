@@ -147,6 +147,8 @@ Según nuestros hallazgos, nos dimos cuenta que debíamos tomar en consideració
 En la Fase de Ideación realizamos un brainstorming donde generamos nuevas y diversas ideas, después de esto analizamos las ideas y elegimos las más adecuadas o interesantes para solucionar el problema planteado en el HMW y con esto realizamos un User flow para su posterior prototipado.
 
 ### Solución Digital
+Desarrollamos los prototipos de baja fidelidad de todo el flujo e hicimos tests de usabilidad con 5 usuarios y gracias a los resultados que obtuvimos durante estos testeos pudimos mejorar e iterar la propuesta que tuvimos inicialmente, siendo esta la solución digital final:
+
 - **Chatbot vía WhatsApp:**
   - Para nuestros usuarios el móvil y whatsapp son los medios de comunicación que más utilizan.
   - Serán atendidos por Nora, la asesora virtual del banco Pichincha, podrán encontrarla ingresando a la página web del banco, alli también anunciaremos que la validación y activación de la cuenta podrán realizarla a traves de la app.
@@ -161,9 +163,6 @@ En la Fase de Ideación realizamos un brainstorming donde generamos nuevas y div
   - Una vez realizada la activación de la cuenta en modo online los usuarios podrán realizar diversos tipos de operaciones como: consultas, depósitos, transferencias, pago de servicios, excepto realizar retiros.
 
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/prototipo_app.jpg)
- 
-
-Desarrollamos los prototipos de baja fidelidad de todo el flujo e hicimos tests de usabilidad con 5 usuarios y gracias a los resultados que obtuvimos durante estos testeos pudimos mejorar e iterar la propuesta que tuvimos inicialmente, siendo esta la solución digital final:
 
 :arrow_right:  **Links:** [Prototipo Figma](https://www.figma.com/file/LClyt0k4pRZ6YbY15Th1m5/Proyecto-Pichincha?node-id=558%3A1885)
 | [Prototipo navegable](https://n9.cl/b3dn)
