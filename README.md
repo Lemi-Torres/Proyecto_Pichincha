@@ -134,7 +134,7 @@ Definimos a nuestro tipo de usuario (personaje semi-ficticio) esto nos permitir�
 ## 11. Journey Map
 Contexto (Búsqueda de información): Ante la pandemia Covid 19, Flor ha decidido aperturar una cuenta de ahorro en una entidad financiera para poder recibir los pagos de sus clientes, realizar los pagos de sus insumos y además está considerando la opción mantener un monto como ahorro ante situaciones de emergencia. Actualmente está analizando qué entidad financiera le conviene.
 
-![alt tag](https://github.com/Lemi-Torres/UX_Design_Amate/blob/master/mockups.jpg)
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/journey_map.jpg)
 
 ## 12. How Might We
 Según nuestros hallazgos, nos dimos cuenta que debíamos tomar en consideración dos momentos en especial: el antes y el durante del proceso de apertura así que para poder entender mejor los problemas y desarrollar mejores hipótesis realizamos HMW (Cómo podríamos), redefiniendo el reto inicial de la siguiente manera:
