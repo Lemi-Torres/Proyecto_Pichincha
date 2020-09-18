@@ -113,18 +113,18 @@ Después de esto ya estábamos listas para buscar patrones y generar insigths.
 
 - Principales hallazgos de la entrevista con usuarios: 
   - El contexto de emergencia los ha llevado a evitar sitios concurridos y aglomerados ***"Yo no iría (bancos), por la aglomeración de gente, me daría miedo contagiarme en las largas colas que tendría que hacer".*** _U2
-  - La elección de un banco se basa en dos aspectos, primero si su entorno cercano son clientes de alguna entidad financiera ***"Escogería el BCP. No conozco los beneficios que me podría dar pero toda mi familia tiene su cuenta de ahorro allí".*** _U5 y adicional que les genere una buena tasa de interés ***“Si voy a ahorrar en el banco me tienen que generar buenos intereses por mi dinero”.*** _U3
-  - Están interesados en abrir una cuenta de ahorros para poder realizar operaciones financieras ***"ayudaría ahora que estoy vendiendo cosas por internet" “mis clientes me piden número de cuenta para depositarme el dinero”.*** _U4
-  - Prefieren tener a un asesor cerca para realizar la apertura de su cuenta de ahorros ***"Deseo que me asesoren y me puedan guiar para hacer mi proceso correctamente, que lo hagan con paciencia y de buena manera”.*** _U5
+  - La elección de un banco se basa en dos aspectos importantes ***"Escogería el BCP porque toda mi familia tiene su cuenta de ahorros allí".*** _U5 ***“El banco me tiene que generar buenos intereses por mi dinero”.*** _U3
+  - Están interesados en abrir una cuenta de ahorros para poder realizar operaciones financieras ***“Mis clientes me piden número de cuenta para depositarme el dinero”.*** _U4
+  - Prefieren tener a un asesor cerca para realizar la apertura de su cuenta de ahorros ***"Deseo que me asesoren y me puedan guiar para hacer mi proceso correctamente”.*** _U5
   
 **INSIGHTS:**
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/insights.jpg)
   
 - Principales hallazgos de la entrevista con colaboradora:
-  - El proceso online tardaba por la cantidad de datos que se suele pedir para la validación de identidad ***"El digital no está conectado con RENIEC (por eso pide más datos)".***
-  - El banco habia tenido un incremento de apertura de cuentas de ahorros bajo en contexto Covid-19 ***"Vienen al banco Pichincha a crearse su cuenta 4.5, lo que hemos tenido más acogida ha sido por ello, también por los fondos de AFP y por clientes que quieren ganar mayor interés en la cuenta"***
-  - A los clientes no les gusta esperar y buscan una atención rápida por parte del banco generando incomodidad en los trabajadores ***"Los clientes quieren que los atiendan rápido y eso genera tensión ya sea en nuestra atención y en sí en la oficina".***
-  - Los clientes son muy desconfiados y suelen pedir información detallada de los productos del banco ***“A veces por confianza se le tiene que explicar más de una vez a titulares y familiares los beneficios del producto, lo cual hace que el proceso tarde un poco más”.***
+  - El proceso online suele tardar por la cantidad de datos que se pide para la validación de identidad ***"El digital no está conectado con RENIEC (por eso pide más datos)".***
+  - El banco habia tenido un incremento de apertura de cuentas de ahorros bajo el contexto Covid-19 ***"Vienen al banco Pichincha a crearse su cuenta 4.5, lo que hemos tenido más acogida ha sido por ello, también por los fondos de AFP y por clientes que quieren ganar mayor interés en la cuenta"***
+  - A los usuarios no les gusta esperar, buscan una atención rápida ***"Los clientes quieren que los atiendan rápido y eso genera tensión ya sea en nuestra atención y en sí en la oficina".***
+  - Los usuarios son muy desconfiados, buscan información detallada de los productos del banco y eso toma tiempo demás ***“A veces por confianza se le tiene que explicar más de una vez a titulares y familiares los beneficios del producto, lo cual hace que el proceso tarde un poco más”.***
 
 ## 10. User Persona
 Definimos a nuestro tipo de usuario (personaje semi-ficticio) esto nos permitiría tener un contexto más amplio y conocer las motivaciones, intereses y comportamientos de quien sería la persona que interactuaría con nuestro producto.
@@ -132,7 +132,7 @@ Definimos a nuestro tipo de usuario (personaje semi-ficticio) esto nos permitir�
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/user_persona.jpg)
 
 ## 11. Journey Map
-Contexto (Búsqueda de información): Ante la pandemia Covid 19, Flor ha decidido aperturar una cuenta de ahorro en una entidad financiera para poder recibir los pagos de sus clientes, realizar los pagos de sus insumos y además está considerando la opción mantener un monto como ahorro ante situaciones de emergencia. Actualmente está analizando qué entidad financiera le conviene.
+Contexto (Búsqueda de información): Ante la pandemia Covid 19, Flor ha decidido aperturar una cuenta de ahorro en una entidad financiera para poder recibir los pagos de sus clientes, realizar los pagos de sus insumos y además está considerando la opción de mantener un monto como ahorro ante situaciones de emergencia. Actualmente está analizando qué entidad financiera le conviene.
 
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/journey_map.jpg)
 
