@@ -21,7 +21,7 @@ Chatbot vía WhatsApp e implementación de autenticación facial en la app origi
 * [5. Fase de Investigación](#5-fase-de-investigación)
 * [6. Fase de Definición](#6-fase-de-definición)
 * [7. Fase de Ideación](#7-fase-de-ideación)
-* [8. Fase de Prototipado y Validación](#8-fase-de-prototipado-validación)
+* [8. Fase de Prototipado y Validación](#8-fase-de-prototipado-y-validación)
 * [9. Resultados](#9-resultados)
 * [10. Mi aprendizaje](#10-mi-aprendizaje)
 
@@ -158,10 +158,10 @@ Desarrollamos los prototipos de baja fidelidad de todo el flujo e hicimos tests 
 :arrow_right:  **Links:** [Prototipo Figma](https://www.figma.com/file/Sv4aDwLlZH3TsWXuCbXRvL/WebSite-Grupo-%C3%81mate?node-id=911%3A6843)
 | [Prototipo navegable](https://n9.cl/guqeg)
 
-## 10. Resultados
+## 9. Resultados
 Mi equipo y yo logramos crear una solución digital que permitía a los potenciales usuarios a poder recibir una información clara y detallada sobre los tipos de cuentas de ahorros que el banco ofrecía permitiendole de una manera dinámica poder entenderla y decidirse por la que mas le conviene, ellos lograron sentirse acompañados durante su proceso de solicitud de apertura de cuenta de ahorros en la web ya que su mayor temor era no saber o no entender ciertos términos que los pudiesen llevar al error, a su vez la implementación del sistema FacePhi fue una gran opción que los ayudaba a poder realizar diversas operaciones con su cuenta activada desde la app y evitar acercarse a los bancos a realizar largas colas que los exponian al contagio.
 
-## 11. Mi aprendizaje
+## 10. Mi aprendizaje
 En este proyecto aprendí que tener sesiones de brainstorming es fundamental, aunque parezca ser algo sencillo tienen muchos factores que la forman e influyen en los resultados y por eso debemos prestar atención a cada detalle o de lo contrario los resultados que obtengamos no serán los que esperamos🙄. También aprendí que al realizar entrevistas debo enfocarme en hacer preguntas al entrevistado en las que me pueda contar como es su experiencia al usar X producto o servicio ya sea mala o buena y nunca pedirles que me digan que es lo quieren por que ya sabemos que: “Si le hubiera preguntado a la gente qué quería, habrían dicho un caballo más rápido”_Henry Ford 👩🏽‍💻.
 
 ##
