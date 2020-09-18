@@ -60,7 +60,7 @@ Esta es una herramienta empleada en la metodología Lean Startup y nosotras deci
 ## 6. Benchmarck
 Realizamos un análisis de la competencia de nuestro producto, esto no ayudaría a tener una mejor referencia en funcionalidades y objetivos del proyecto.
 Antes de empezar, era importante tener claros dos aspectos: qué productos vamos a analizar y qué criterios utilizaremos para evaluarlos.
-Así que primero hicimos una selección de cinco productos, esto evitaba que nuestra visión se encuentre limitada a solo 5 ejemplos muy concretos porque  si teníamos demasiados ejemplos, nos hubiera resultado más difícil llevar a cabo una investigación exhaustiva, adicional a ello definimos los criterios de análisis antes de comenzar para asegurar que no estábamos influenciadas por un producto en concreto y también nos ayudaría  a entender por qué la gente los prefería a la hora de aperturar una cuenta de ahorros en un proceso online, siendo estos los resultados de nuestro análisis:
+Así que primero hicimos una selección de cinco productos, esto evitaba que nuestra visión se encuentre limitada a solo 5 ejemplos muy concretos porque  si teníamos demasiados ejemplos, nos hubiera resultado más difícil llevar a cabo una investigación exhaustiva, adicional a ello definimos los criterios de análisis antes de comenzar para asegurar que no estábamos influenciadas por un producto en concreto y también nos ayudaría  a entender por qué la gente los prefería a la hora de aperturar una cuenta de ahorros en un proceso online. Estos son los resultados de nuestro análisis:
 
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/benchmark.png)
 
@@ -110,6 +110,8 @@ Analizamos las respuestas obtenidas del screener survey encontrando coincidencia
 ## 9. Affinity Diagram
 Después de realizar las entrevistas lo primero que hicimos fue hacer una bajada de información, en una matriz de resultados apuntamos notas y las reforzamos con las grabaciones que realizamos y luego sacamos lo que considerábamos realmente relevante y los apuntamos en post its en Miro y posteriormente realizamos un Affinity Diagram (agrupamos por afinidad los datos similares) aquí solo quedaron los datos más importantes y desechamos los que no hacían falta.
 Después de esto ya estábamos listas para buscar patrones y generar insigths.
+
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/affinity_map.jpg)
 
 - Principales hallazgos de la entrevista con usuarios: 
   - El contexto de emergencia los ha llevado a evitar sitios concurridos y aglomerados ***"Yo no iría (bancos), por la aglomeración de gente, me daría miedo contagiarme en las largas colas que tendría que hacer".*** _U2
