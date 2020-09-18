@@ -154,7 +154,7 @@ Empezamos nuestro proceso de crear soluciones para resolver los problemas que en
 ### Solución Digital
 - **Chatbot vía WhatsApp**, para nuestros usuarios este era el medio de comunicación más utilizado y a traves de el podíamos ofrecer información clara y detallada y también ayudarlos en su proceso de apertura por la página web sin la presencia de un asesor acortando el tiempo que normalmente ellos tomaban para asesorar a los usuarios interesados.
 
-![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/journey_map.jpg)
+![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/prototipo_chatbot.jpg)
 
 - **Implementación de autenticación facial en la app**, realizar esto ayudaba a que nuestros usuarios puedan validar su identidad de una manera segura y evitar acercarse al banco para culminar su proceso y para poder anunciarlo tuvimos que rediseñar la sección de Confirmación del proceso de solicitud de la apertura de una cuenta de ahorros en la página web.
 
