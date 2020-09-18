@@ -120,7 +120,7 @@ Después de esto ya estábamos listas para buscar patrones y generar insigths.
   - El proceso online suele tardar por la cantidad de datos que se pide para la validación de identidad ***"El digital no está conectado con RENIEC (por eso pide más datos)".***
   - El banco habia tenido un incremento de apertura de cuentas de ahorros bajo el contexto Covid-19 ***"Vienen al banco Pichincha a crearse su cuenta 4.5, también por los fondos de AFP y por clientes que quieren ganar mayor interés en la cuenta"***
   - A los usuarios no les gusta esperar, buscan una atención rápida ***"Los clientes quieren que los atiendan rápido y eso genera tensión en nuestra atención y en la oficina".***
-  - Los usuarios son muy desconfiados, buscan información detallada de los productos del banco y eso toma tiempo demás ***“A veces por confianza se le tiene que explicar más de una vez a titulares y familiares los beneficios del producto, lo cual hace que el proceso tarde un poco más”.***
+  - Los usuarios son muy desconfiados y buscan recibir información detallada de los productos del banco ***“A veces por confianza se le tiene que explicar más de una vez a titulares y familiares los beneficios del producto, lo cual hace que el proceso tarde un poco más”.***
 
 ### User Persona
 Definimos a nuestro tipo de usuario (personaje semi-ficticio) esto nos permitiría tener un contexto más amplio y conocer las motivaciones, intereses y comportamientos de quien sería la persona que interactuaría con nuestro producto.
