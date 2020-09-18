@@ -153,8 +153,7 @@ Empezamos nuestro proceso de crear soluciones para resolver los problemas que en
 
 ### Solución Digital
 - **Chatbot vía WhatsApp**, para nuestros usuarios este era el medio de comunicación más utilizado y a traves de el podíamos ayudarlos brindándole la información necesaria del producto de su interes y también guiarlos en su proceso de apertura por la página web sin la presencia de un asesor real acortando así el tiempo que normalmente ellos tomaban para asesorar a los usuarios.
-
-Detalles: Los usuarios serán atendidos por Nora, la asesora virtual del banco Pichincha. El chatbot adicional a enviar mensajes de texto también puede enviar videos, esto ayuda a que la información brindada sea más dinámica y entendible para los usuarios.
+  Detalles: Los usuarios serán atendidos por Nora, la asesora virtual del banco Pichincha. El chatbot adicional a enviar mensajes de texto también puede enviar videos, esto       ayuda a que la información brindada sea más dinámica y entendible para los usuarios.
 
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/prototipo_chatbot.jpg)
 
