@@ -20,10 +20,9 @@ Chatbot vía WhatsApp e implementación de autenticación facial en la app origi
 * [4. Objetivos](#4-objetivos)
 * [5. Fase de Investigación](#5-fase-de-investigación)
 * [6. Fase de Definición](#6-fase-de-definición)
-* [7. Fase de Ideación](#7-fase-de-ideación)
-* [8. Fase de Prototipado y Validación](#8-fase-de-prototipado-y-validación)
-* [9. Resultados](#9-resultados)
-* [10. Mi aprendizaje](#10-mi-aprendizaje)
+* [7. Fase de Prototipado y Validación](#7-fase-de-prototipado-y-validación)
+* [8. Resultados](#8-resultados)
+* [9. Mi aprendizaje](#9-mi-aprendizaje)
 
 ## 1. Contexto
 Banco Pichincha es parte del Grupo Pichincha, el mayor grupo financiero privado de Ecuador. Llegó a nuestro país hace más de 20 años y en su búsqueda permanente por propiciar un impacto positivo y justo en la sociedad, ha convertido a la sostenibilidad y a la responsabilidad social corporativa en pilares fundamentales de su modelo de negocio. 
@@ -143,27 +142,22 @@ Según nuestros hallazgos, nos dimos cuenta que debíamos tomar en consideració
   - ¿Cómo podríamos brindar un mayor acompañamiento y transmitir seguridad en la realización de la apertura de una cuenta de ahorros para que potenciales usuarios de la generación X tengan confianza en realizarla desde su hogar?
   - ¿Cómo podríamos realizar la validación y activación de la cuenta de ahorros para que potenciales usuarios de la generación X culminen su proceso sin la necesidad de acercarse al banco para realizar dichos procedimientos?
 
-## 7. Fase de Ideación
-
-### Brainstorming
-
-Empezamos nuestro proceso de crear soluciones para resolver los problemas que encontramos y planteamos en el HMW. Realizamos de modo grupal una lluvia de ideas y empezamos a generar nuevas y diversas ideas, después de esto analizamos las ideas y elegimos las más adecuadas o interesantes para solucionar el problema planteado y con esto realizamos un User flow para su posterior prototipado.
-
-## 8. Fase de Prototipado y Validación
+## 7. Fase de Prototipado y Validación
+En la Fase de Ideación realizamos un brainstorming donde generamos nuevas y diversas ideas, después de esto analizamos las ideas y elegimos las más adecuadas o interesantes para solucionar el problema planteado en el HMW y con esto realizamos un User flow para su posterior prototipado.
 
 ### Solución Digital
 - **Chatbot vía WhatsApp:**
-  - Para nuestros usuarios el whatsapp es el medio de comunicación que más utilizan y a traves de el les podemos brindar la información necesaria del producto de su interes y también guiarlos en su proceso de apertura por la página web sin la presencia de un asesor real acortando así el tiempo que normalmente ellos tomaban para asesorar a los usuarios.
-  - Los usuarios serán atendidos por Nora, la asesora virtual del banco Pichincha, podrán encontrarla ingresando a la página web del banco, alli también anunciaremos que la validación y activación de la cuenta podrán realizarla a traves de la app.
-  - Nuestro chatbot adicional a enviar mensajes de texto también puede enviar videos, esto ayuda a que la información brindada sea más dinámica y entendible para los usuarios.
-
+  - Para nuestros usuarios el móvil y whatsapp son los medios de comunicación que más utilizan.
+  - Serán atendidos por Nora, la asesora virtual del banco Pichincha, podrán encontrarla ingresando a la página web del banco, alli también anunciaremos que la validación y activación de la cuenta podrán realizarla a traves de la app.
+  - Nuestro chatbot adicional a enviar mensajes de texto también puede enviar videos, esto ayuda a que la información brindada sobre el producto de su interes sea más dinámica y entendible, del mismo modo también podrán ser guiados en su proceso de apertura por la página web sin la presencia de un asesor real acortando así el tiempo que normalmente ellos tomaban para asesorar a los usuarios.
+  
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/prototipo_chatbot.jpg)
-Detalles: Los usuarios serán atendidos por Nora, la asesora virtual del banco Pichincha, podrán encontrarla ingresando a la página web del banco, alli también anunciaremos que la validación y activación de la cuenta podrán realizarla a traves de la app. Nuestro chatbot adicional a enviar mensajes de texto también puede enviar videos, esto ayuda a que la información brindada sea más dinámica y entendible para los usuarios.
 
-- **Implementación de autenticación facial en la app**, realizar esto ayudaba a que nuestros usuarios puedan validar su identidad de una manera segura y evitar acercarse al banco para culminar su proceso y para poder anunciarlo tuvimos que rediseñar la sección de Confirmación del proceso de solicitud de la apertura de una cuenta de ahorros en la página web.
-
+- **Implementación de autenticación facial en la app**
+  - realizar esto ayudaba a que nuestros usuarios puedan validar su identidad de una manera segura y evitar acercarse al banco para culminar su proceso y para poder anunciarlo tuvimos que rediseñar la sección de Confirmación del proceso de solicitud de la apertura de una cuenta de ahorros en la página web.
+  
 ![alt tag](https://github.com/Lemi-Torres/Proyecto_Pichincha/blob/master/img/prototipo_app.jpg)
-Detalles: 
+ 
 
 Desarrollamos los prototipos de baja fidelidad de todo el flujo e hicimos tests de usabilidad con 5 usuarios y gracias a los resultados que obtuvimos durante estos testeos pudimos mejorar e iterar la propuesta que tuvimos inicialmente, siendo esta la solución digital final:
 
